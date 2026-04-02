@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+joblib
+streamlit
+plotly 
+sckit-learn == 1.8.0
